@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://kagoshima.info-station.net/wp-content/uploads/2018/09/senganen.jpg");
+    font-family: sans-serif;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#global-nav{
+    width: 100%;
+    background-color: #b1f1fd;
+    height: 100%;
+    padding: 10px;
+}
+#global-nav ul{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+#global-nav a{
+    color: black;
+    margin: left 10px;
+    padding: 10px;
+    text-decoration: none;
+}
+#global-nav a:hover{
+    border-radius: 20px;
+    background-color: greenyellow;
+}
+.itemdiv{
+    text-align: center;
+    font-size: 20px;
+    color: ;
+}
+
